@@ -1,4 +1,4 @@
-number2text
+number2text.js
 ============
 
 Převod čísla do textové podoby. Převedeno podle (http://pear.php.net/package/Numbers_Words/) do javascriptu. Pouze pro česká slova a převod z čísla na text.
